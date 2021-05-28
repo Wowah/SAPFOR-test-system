@@ -1,0 +1,7 @@
+0 - In progress
+-1 - Internal error (shell commands errors)
+-2 - Generation error
+-3 - Compilation error
+-4 - Parser error
+1 - Success
+2 - Test with errors
